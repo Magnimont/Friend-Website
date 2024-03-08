@@ -6127,7 +6127,7 @@ html {
 
 .map:nth-child(1) {
 	background-color: rgb(0, 81, 95);
-	background-image: url("../img/q1_sp.png");
+	background-image: url("../Pepe_frog1.png");
 }
 
 .map:nth-child(1) .overlay {
@@ -6541,7 +6541,7 @@ html {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 80px;
-	background-image: url(../img/zen.png);
+	background-image: url(https://www.freeiconspng.com/uploads/pepe-transparent-png-13.png);
 }
 
 .player .control-panel.active .album-art {
