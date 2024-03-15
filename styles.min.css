@@ -1081,7 +1081,7 @@ a.ui-button:hover {
 }
 
 .ui-visual-focus {
-	box-shadow: 0 0 3px 1px #BF40BF;
+	box-shadow: 0 0 3px 1px #52bc68;
 }
 
 .ui-button.ui-state-active:hover,
@@ -5475,7 +5475,7 @@ html {
 }
 
 .desktop .apps .app-icon i:hover {
-	color: #BF40BF;
+	color: #52bc68;
 }
 
 .desktop .apps .app-icon span {
@@ -5864,7 +5864,7 @@ html {
 
 .desktop .explorer-window .window-body.about-body a,
 .desktop .explorer-window .window-body.contact-body a {
-	color: #BF40BF;
+	color: #52bc68;
 	text-decoration: none;
 }
 

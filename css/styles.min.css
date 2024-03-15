@@ -1086,7 +1086,7 @@ a.ui-button:hover {
 }
 
 .ui-visual-focus {
-	box-shadow: 0 0 3px 1px #BF40BF;
+	box-shadow: 0 0 3px 1px #52bc68;
 }
 
 .ui-button.ui-state-active:hover,
@@ -5480,7 +5480,7 @@ html {
 }
 
 .desktop .apps .app-icon i:hover {
-	color: #BF40BF;
+	color: #52bc68;
 }
 
 .desktop .apps .app-icon span {
@@ -5869,7 +5869,7 @@ html {
 
 .desktop .explorer-window .window-body.about-body a,
 .desktop .explorer-window .window-body.contact-body a {
-	color: #BF40BF;
+	color: #52bc68;
 	text-decoration: none;
 }
 
@@ -6378,14 +6378,20 @@ html {
 }
 
 .team-container {
-	background-image: url(../img/RM_BG.png);
-	width: 100%;
-	height: 100%;
-	background-repeat: no-repeat;
-	background-size: cover;
-	display: flex;
-	overflow-y: scroll;
+    background-image: url(https://miro.medium.com/v2/resize:fit:7680/1*uB8lkd6F8MDlKXghLPq8iQ.png);
+    width: 100%;
+    min-height: 100%; /* Change height to min-height */
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around; /* Horizontal alignment of team members */
+    flex-wrap: wrap; /* Allow team members to wrap to the next line */
+    align-items: flex-start; /* Align team members to the top */
+    padding-bottom: 20px; /* Add padding at the bottom to separate the paragraph from the team members */
 }
+
+
+
 
 .team-member {
 	flex: 25%;
@@ -6433,7 +6439,7 @@ html {
 }
 
 .team-member:nth-child(3) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218244576989675671/image.png?ex=6606f5ad&is=65f480ad&hm=17b1d8daaa9b6ee044dbe6a9448218acb76ae7ee48a6b535db4b7471676828b5&=&format=webp&quality=lossless&width=227&height=265);
+	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFsa13KzU5xTEqnFkqYNE8sO3hiaRQat81_p6OwSGHk7xNm4F3);
 }
 
 .team-member:nth-child(4) .image {
