@@ -6425,15 +6425,15 @@ html {
 }
 
 .team-member:nth-child(1) .image {
-	background-image: url(../img/zen.png);
+	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218242476012212394/image-1.png?ex=6606f3b8&is=65f47eb8&hm=b50a4bcd05570d9f2e1ea130ecabe8e95ae7d859663607f49acaf65419f30240&=&format=webp&quality=lossless&width=409&height=409);
 }
 
 .team-member:nth-child(2) .image {
-	background-image: url(../img/koriu.png);
+	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218242566240210974/8-xxCNIo0OaZu1fVn.png?ex=6606f3cd&is=65f47ecd&hm=cad69961c434e75d69bb5de3d986650905f358feb481ac7ff27a9525a33687de&=&format=webp&quality=lossless&width=409&height=409);
 }
 
 .team-member:nth-child(3) .image {
-	background-image: url(../img/ale.png);
+	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218244576989675671/image.png?ex=6606f5ad&is=65f480ad&hm=17b1d8daaa9b6ee044dbe6a9448218acb76ae7ee48a6b535db4b7471676828b5&=&format=webp&quality=lossless&width=227&height=265);
 }
 
 .team-member:nth-child(4) .image {
