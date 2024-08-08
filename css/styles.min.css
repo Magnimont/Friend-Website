@@ -5891,8 +5891,8 @@ html {
 }
 
 .faction:nth-child(1) {
-	background-color: rgb(0, 81, 95);
-	background-image: url("https://lh3.googleusercontent.com/kdAhQtm9ro3vk6jJ1R3bgmulz8hf6YdPUHeuJtNMF17A5gCXo4AoVTRinjHrHk0zh2Q_bdZdAMujnvkofL3ERWHwsKvV-hKuB96o=s400");
+	background-color: rgb(0, 0, 0);
+	background-image: url("https://i.pinimg.com/originals/75/10/f6/7510f688ca667f1b933beefe02139328.gif");
 }
 
 .faction:nth-child(1) .overlay {
@@ -5900,7 +5900,8 @@ html {
 
 .faction:nth-child(2) {
 	background-color: rgb(219, 30, 71);
-	background-image: url("https://i.seadn.io/gcs/files/6d9e4594e13ec3638b273b36e681052a.gif?w=500&auto=format");
+	
+	background-image: url("https://katjameyerherm.files.wordpress.com/2020/04/128753a7-c082-4ab2-98ec-16e90685df33.gif?w=608");
 }
 
 .faction:nth-child(2) .overlay {
@@ -5908,7 +5909,7 @@ html {
 
 .faction:nth-child(3) {
 	background-color: rgb(167, 167, 167);
-	background-image: url("https://lh3.googleusercontent.com/0fAQkZtrtR7CATTFhKVphWqzmEg7vBtojWGXJYmcUyNHCSifIXsXtQG1v_pJ6IOvRhgJKatMjvHjd97OPd4GJgzHHrsrViWlleo=s400");
+	background-image: url("https://i.gifer.com/JS2.gif");
 }
 
 .faction:nth-child(3) .overlay {
@@ -5916,7 +5917,7 @@ html {
 
 .faction:nth-child(4) {
 	background-color: rgb(0, 0, 0);
-	background-image: url("https://i.seadn.io/gcs/files/b68b51f8884d7a9f49b0d229f4356ca0.gif?w=500&auto=format");
+	background-image: url("https://media.giphy.com/media/3oEjI3ZMHUCvrSH0U8/giphy.gif");
 }
 
 .faction:nth-child(4) .overlay {
@@ -6128,7 +6129,7 @@ html {
 
 .map:nth-child(1) {
 	background-color: rgb(0, 95, 90);
-	background-image: url("../img\uh_pepe.png");
+	background-image: url("../img\uh_pepe.gif");
 }
 
 .map:nth-child(1) .overlay {
@@ -6374,7 +6375,7 @@ html {
 }
 
 .team-container {
-    background-image: url(https://miro.medium.com/v2/resize:fit:7680/1*uB8lkd6F8MDlKXghLPq8iQ.png);
+    background-image: url(https://img.freepik.com/free-vector/yellow-diagonal-geometric-striped-background-with-halftone-detailed_1409-1451.jpg);
     width: 100%;
     min-height: 100%; /* Change height to min-height */
     background-repeat: no-repeat;
@@ -6427,15 +6428,15 @@ html {
 }
 
 .team-member:nth-child(1) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218242476012212394/image-1.png?ex=6606f3b8&is=65f47eb8&hm=b50a4bcd05570d9f2e1ea130ecabe8e95ae7d859663607f49acaf65419f30240&=&format=webp&quality=lossless&width=409&height=409);
+	background-image: url(../chapo.png);
 }
 
 .team-member:nth-child(2) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1218242566240210974/8-xxCNIo0OaZu1fVn.png?ex=6606f3cd&is=65f47ecd&hm=cad69961c434e75d69bb5de3d986650905f358feb481ac7ff27a9525a33687de&=&format=webp&quality=lossless&width=409&height=409);
+	background-image: url(../jeff.png);
 }
 
 .team-member:nth-child(3) .image {
-	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFsa13KzU5xTEqnFkqYNE8sO3hiaRQat81_p6OwSGHk7xNm4F3);
+	background-image: url(../oj_simp.png);
 }
 
 .team-member:nth-child(4) .image {
@@ -6548,7 +6549,7 @@ html {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 80px;
-	background-image: url(https://cdn.openart.ai/stable_diffusion/1fe4d109e6b04069484469444bfbb3e357bb49a6_2000x2000.webp);
+	background-image: url(https://media.tenor.com/fORjINQEfhEAAAAj/banana-peanut.gif);
 }
 
 .player .control-panel.active .album-art {
