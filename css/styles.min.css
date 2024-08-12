@@ -5909,7 +5909,7 @@ html {
 
 .faction:nth-child(3) {
 	background-color: rgb(121, 121, 121);
-	background-image: url("https://media.discordapp.net/attachments/1147887838495522978/1271260165047320576/b6OSQAAABiGXddF72iYBAGJUCAAAHx8QECBAgQ2AXEZyc3SIAAAQLi4wMECBAgsAuIz05ukAABAgTExwcIECBAYBcQn53cIAECBAiIjw8QIECAwC4gPju5QQIECBAQHx8gQIAAgV1AfHZygwQIECAgPj5AgAABAruAOzkBgkQIEBAfHyAAAECBHYB8dnJDRIgQICAPgAAQIECOwC4rOTGyRAgAAB8fEBAgQIENgFxGcnN0iAAAEC4uMDBAgQILALiM9ObpAAAQIExMcHCBAgQGAXEJd3CABAgQIiI8PECBAgMAuID47uUECBAgQEB8fIECAAIFdQHx2coMECBAgID4QIAAAQK7gPjs5AYJECBAQHx8gAABAgR2AfHZyQ0SIECAgPj4AAECBAjsAuKzkxskQIAAAfHxAQIECBDYBcRnJzdIgAABAuLjAwQIECCwC4jPTm6QAAECBMTHBwgQIEBgFxCfndwgAQIECIiPDxAgQIDALiAO7lBAgQIEBA..png?ex=66b6b0ca&is=66b55f4a&hm=685f1959808ace40c1a1b4553d9eb7fdc44c5d0737ec35239e79bda6f4fc1f11&=&format=webp&quality=lossless&width=373&height=373");
+	background-image: url("../image\ copy\ 4.png");
 }
 
 .faction:nth-child(3) .overlay {
@@ -5917,7 +5917,7 @@ html {
 
 .faction:nth-child(4) {
 	background-color: rgb(255, 0, 0);
-	background-image: url("https://media.discordapp.net/attachments/1147887838495522978/1271266011383070790/pngwing.com_2.png?ex=66b6b63c&is=66b564bc&hm=a7fce7423a84795597ff075153d04f417c9f2bdd409da5c6c18f0529d5902092&=&format=webp&quality=lossless&width=388&height=539");
+	background-image: url("../image\ copy\ 3.png");
 }
 
 .faction:nth-child(4) .overlay {
@@ -6535,7 +6535,7 @@ html {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 80px;
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1271213937928699945/image_2024-08-09_024005481-removebg-preview.png?ex=66b685bc&is=66b5343c&hm=fb4e3a35d5dc7d2ef99481ff5f81c1d49fdc3b3c5dc7b2a60b4804a32522062d&=&format=webp&quality=lossless&width=314&height=314);
+	background-image: url(../image5.png);
 }
 
 .player .control-panel.active .album-art {
