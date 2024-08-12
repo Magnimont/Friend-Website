@@ -5892,7 +5892,7 @@ html {
 
 .faction:nth-child(1) {
 	background-color: rgb(0, 0, 0);
-	background-image: url("https://media.discordapp.net/attachments/1147887838495522978/1271258777928204308/latest.png?ex=66b6af7f&is=66b55dff&hm=d7ef19302e0f52d07c51d9cc2a87fb60eb2e7abbdfc1b7f8eba91b5d02d2efd4&=&format=webp&quality=lossless&width=355&height=669");
+	background-image: url("../friend-johan.png");
 }
 
 .faction:nth-child(1) .overlay {
